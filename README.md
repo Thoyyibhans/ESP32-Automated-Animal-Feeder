@@ -26,7 +26,8 @@ All the necessary components to build this project are listed in the [Bill of Ma
 
 ### Wiring Diagram
 
-![Wiring Schematic](https://github.com/Thoyyibhans/ESP32-Automated-Animal-Feeder/blob/main/schematic.png)
+<img src="https://github.com/Thoyyibhans/ESP32-Automated-Animal-Feeder/blob/main/schematic.png?raw=true" alt="Wiring Schematic" width="400"/>
+
 
 | Component           | ESP32 Pin        | Connection Details                |
 | ------------------- | ---------------- | --------------------------------- |
